@@ -1,0 +1,15 @@
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.csproj.AssemblyReference.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.AssemblyInfo.cs
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\bin\Debug\net6.0\Phonebook.exe
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\bin\Debug\net6.0\Phonebook.deps.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\bin\Debug\net6.0\Phonebook.runtimeconfig.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\bin\Debug\net6.0\Phonebook.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\bin\Debug\net6.0\Phonebook.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\refint\Phonebook.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\Phonebook.genruntimeconfig.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Phonebook\obj\Debug\net6.0\ref\Phonebook.dll
